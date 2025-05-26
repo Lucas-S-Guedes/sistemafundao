@@ -2,7 +2,7 @@
 
 📌 Sobre o Projeto
 Este sistema foi desenvolvido para atender às necessidades de uma microempresa do ramo de perfuração de poços artesianos, permitindo cadastro de clientes, gerenciamento de orçamentos e geração de arquivos PDF
-Utiliza tecnologias robustas como PHP, Composer, FullCalendar e mPDF.
+Utiliza tecnologias robustas como PHP, JS, Composer, FullCalendar e mPDF.
 
 ⚙️ Funcionalidades Principais
 🔄 CRUD completo de clientes e orçamentos
